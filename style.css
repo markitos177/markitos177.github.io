@@ -1,0 +1,63 @@
+/*##################### HEAD ####################*/
+
+/*##################### BODY ####################*/
+body{
+    background-color:#edf7ff;
+}
+/*######### header #########*/
+header h1{
+    background-image: url("./Imagenes/imagen_idit.png");
+}
+
+header p{
+    font-family: "Asap", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:100;
+    font-size: 39pt;
+
+}
+
+h1 {
+    font-size: 88pt;
+}
+
+header p, h1, h2{
+    color: #0a2ff1;
+}
+/*######### main #########*/
+
+
+h2 {
+    font-size: 36pt;
+}
+
+/*######### footer #########*/
+footer{
+    background-image: url("./Imagenes/viñedo_extremo_idit.png");
+}
+footer p{
+    font-size: 149pt;
+    color: #8a9af1;
+    font-weight: 300;
+}
+
+/*##################### FUENTES ####################*/
+.titulo{
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.parrafos{
+    font-family: "Asap", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:100;
+    font-size: 25pt;
+    color: #04146c;
+}
+/*##################### TAMAÑOS ####################*/
